@@ -1,0 +1,1 @@
+{"Nama Pelanggan": "WAGIAH", "Nomor ID Pelanggan": "126100130722", "Periode": "AGU 2022 (1 Bulan)", "Tarif / Daya": "R1/450 VA", "Stand Meter": "00061155 - 00061346", "Jumlah Tagihan": "Rp92.090", "Biaya Admin": "Rp2.750"}
